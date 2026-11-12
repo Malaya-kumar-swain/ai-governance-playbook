@@ -1,0 +1,3 @@
+id,name,business_owner,tech_owner,risk_tier,status,user_type,languages,model_or_vendor,personal_data,sensitive_data,takes_actions,max_action,data_leaves_india,last_review,next_review,notes
+AI-001,Example: internal policy search,HR lead,Platform team,Low,Live,Employees,English;Hindi,Hosted LLM API,No,No,No,,No,2026-01-15,2026-07-15,Example row - replace
+AI-002,Example: customer bill-payment assistant,Payments head,AI platform team,High,Pilot,Customers,English;Hindi;Tamil,Hosted LLM API,Yes,Yes,Yes,Rs 10000 per payment,No,2026-02-01,2026-05-01,Example row - replace
